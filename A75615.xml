@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An arrest of the court of Parliament, the princes and all the chambers being assembled, August 22. 1652. To give thanks to the King for the removall of the Cardinal Mazarin, and to beseech his Majesty to return to his good city of Paris and to give peace to his people. With the declaration of the princes.</title>
+            <author>France. Parlement (Paris)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75615</idno>
+            <idno type="STC">Wing A3770</idno>
+            <idno type="STC">Thomason 669.f.16[63]</idno>
+            <idno type="STC">ESTC R211528</idno>
+            <idno type="EEBO-CITATION">99870245</idno>
+            <idno type="PROQUEST">99870245</idno>
+            <idno type="VID">163216</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75615)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163216)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f16[63])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An arrest of the court of Parliament, the princes and all the chambers being assembled, August 22. 1652. To give thanks to the King for the removall of the Cardinal Mazarin, and to beseech his Majesty to return to his good city of Paris and to give peace to his people. With the declaration of the princes.</title>
+                  <author>France. Parlement (Paris)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Translated out of French into English, and Printed for Henry Seile Iunior,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Dated at end: Given in Parliament the 22 day of August, 1652.</note>
+                  <note>Annotation on Thomason copy: "August. 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mazarin, Jules, 1602-1661.</term>
+               <term>Louis --  XIV, --  King of France, 1638-1715 --  Early works to 1800.</term>
+               <term>France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:163216:1" rendition="simple:additions"/>
+            <head>An Arreſt of the Court of PARLIAMENT, The Princes and all the Chambers being Aſſembled, <hi>August</hi> 22. 1652.</head>
+            <head type="sub">To give thanks to the King for the removall of the Cardinal MAZARIN, and to beſeech his Majeſty to return to his good City of <hi>PARIS</hi> and to give Peace to his People.</head>
+            <head type="sub">With the Declaration of the Princes</head>
+            <head type="sub">An extract of the Regiſters of the Parliament.</head>
+            <p rend="italic">THis day the Court, all the Chambers being aſſembled, in the preſence of <hi>Beſchefer</hi> Subſtitute for the Kings procureur Generall, Monſieur the Duke of <hi>Orleans,</hi> and after him the Prince of <hi>Conde,</hi> ſaid, that they had ſufficiently manifeſted by word and their Declarations made in Court, that the cauſe for which they took up arms was only for the, removall of the Cardinall out of the Kingdom. That upon ad<g ref="char:EOLhyphen"/>vice given them they had brought to the Court their Declarations ſigned, expreſt in theſe terms.</p>
+            <floatingText xml:lang="eng" type="declaration">
+               <body>
+                  <p>
+                     <seg rend="decorInit">T</seg>He reſolution that the King hath taken to cauſe the Cardinall <hi>Mazarin</hi> to depart the Kingdom in this preſent conjuncture, juſtifies in ſome ſort that which we have done to hinder his entrance thereinto, and ſince he hath been come in, to expell him thence; ſo that no body can hereafter with reaſon blame our conduct, but thoſe who are willing to authoriſe his ſtay in <hi>France,</hi> who have had the boldneſs to allege other things, and that to be onely the pretence for the War, and that there were cauſes of it that his removall would not be able to take away; But as we pro<g ref="char:EOLhyphen"/>teſt that it hath been the ſole and true motive which made us take up arms, ſo we come into this Company to aſſure it, that we are ready to lay them down, &amp; to execute ſincerely the Decla<g ref="char:EOLhyphen"/>rations which we have here made, pre-ſuppoſing that his departure out of the Kingdom be re<g ref="char:EOLhyphen"/>all: and provided that it pleaſe his Majeſty to doe that which is neceſſary for the peace of his People, and that which is alwayes practiſed in the like occaſions; which conſiſts onely in gi<g ref="char:EOLhyphen"/>ving a Generall Act of Oblivion in good form, and to remove the forces from about <hi>Paris,</hi> and to withdraw thoſe that are in <hi>Guienne,</hi> and the Provinces, to employ them otherwiſe upon the Frontires, and to eſtabliſh things in the ſame eſtate that they were before the preſent troubles, and particularly that which concerns the re-union of the Parliament, and to give a full aſſu<g ref="char:EOLhyphen"/>rance for the retiring thoſe forces ſtrangers that are under our command. We are reſolved to ſend an Expreſs to his Majeſty, to let him know the ſame things, with all the reſpect we owe him, not doubting but that this Company will think it ſit ſo to doe, and to conform our ſelves to the ſence it ſhall have in an occaſion ſo important as is this, and whereof depends the pub<g ref="char:EOLhyphen"/>lique peace:</p>
+                  <closer>
+                     <dateline>In witneſſe whereof we have ſigned the preſent Declaration.</dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The ſaid Declaration being read and heard by the ſaid Subſtitute, he ſaid, That it was out of an aboundant goodneſs and affection that <hi>Monſiew</hi> the Duke of <hi>Orleance,</hi> and <hi>Monſieur</hi> the Prince were willing to reiterate in word and writing the ſame Declaration which had been heretofore made by them in this place, in regard there was no need thereof, for that from the firſt time it was made by them in this place, there hath not been a man that is not perſwaded that it was moſt intirely ſincere, and better written and ingraven on their hearts altogether royall, than in the regiſter of this court; but ſince they had witneſ<g ref="char:EOLhyphen"/>ſed ſo much good will for the good and welfare of the Eſtate, and for this Company, that it would be further neceſſary to beſeech them to employ themſelves towards the King, to be a means of his return to this city of <hi>Paris,</hi> to honor and conſerve it by his preſence; and on the behalf of the Court, the King having already by his goodneſſe made the firſt ſtep to make it ſenſi<g ref="char:EOLhyphen"/>ble of his graces and favours, this company are obliged to doe all they can imagine might be agreeable to the King, to an<g ref="char:EOLhyphen"/>ſwer to his good will, and to witneſſe to him with what affection they would render to him all ſubmiſſion and obedience that he could defire, and to this end it ſeemed expedient to him to make a deputation to goe to the King to give him moſt humble thanks, for that he hath had regard to the Remonſtrances of his Parliament, that if any thing hath happened that poſſibly might diſpleaſe him, to beſeech him to forget it, and to be aſſured of the good intentions of this company; to make like ſupplication to return to <hi>Paris,</hi> to aſſure the people, and to ſtop all diſtruſts formed by one or the other party to foment di<g ref="char:EOLhyphen"/>viſions; If the Court ſhall think it good, to adde, that the Guards of the Ports be taken off, and that the levies of taxes ceaſe that have been impoſed, it will be a thing very agreeable to the King. And that this reſolution be carryed by ſuch of the Gen<g ref="char:EOLhyphen"/>clemen as it ſhall pleaſe the Court to depute, after it ſhall be known the King will pleaſe to hear them</p>
+            <p>The ſaid Court hath arreſted and ordained, that the King be moſt humbly thanked, for that it hath pleaſed him to agree to the removall of the ſaid Cardinall <hi>Mazarin,</hi> that the Soveraign Companies, and the body of the Town be advertiſed and conveened to make the ſame deputation, to beſeech the ſaid Soveraign Lord the King to come to <hi>Paris,</hi> and to aſſure him of all the dutyes, reſpects, ſubmiſsions, and obediences of his Officers and Subjects. That the ſaid <hi>Sieur de Orleance,</hi> and the ſaid <hi>Sieur</hi> Prince, be alſo thanked for their good will, intreated to continue their good affection for the peace of the Kingdom, and o ſend inſtantly with the moſt ſpeed poſsible to his Majeſty, to accompliſh that which is neceſſary for the good and repoſe of his Eſtate, and to this end that the ſaid Declaration remain with the Secretary of the ſaid Court.</p>
+            <closer>
+               <dateline>Given in Parliament <date>the 22 day of Auguſt, 1652.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Tranſlated out of French into Engliſh, and Printed for <hi>Henry Seile</hi> Junier, <hi>1652.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
